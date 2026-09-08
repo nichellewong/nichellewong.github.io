@@ -54,9 +54,9 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
-  "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
-  "https://bsky.app/profile/example.bsky.social",
+  "",
+  "https://www.linkedin.com/in/nichellewong",
+  "",
 ]
 
 # ── Photos and files ────────────────────────────────────────
@@ -64,8 +64,8 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+banner_photo = "media/nichellejournalismphoto"   # A portrait or banner photo of you
+resume = ""         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -74,8 +74,8 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. 
+I'm a UC Berkeley Multimedia Journalism student. I love works that combine media 
+elements to craft an engaging narrative. In my free time, I blog and write short stories.
 
 """
 
@@ -190,10 +190,10 @@ category = "Multimedia"
 
 [colors]
 accent = ""       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = ""   # e.g. "#fffdf5"
+background = "#451A10"   # e.g. "#fffdf5"
 text = ""         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
 heading = ""      # e.g. "Playfair Display"
-body = ""         # e.g. "Lora"
+body = "Georgia"         # e.g. "Lora"
