@@ -101,22 +101,19 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = ""
-description = ""
-url = ""
-image = ""
-date = ""
-category = ""
-outlet = ""
-
-[[work]]
-title = ""
-description = ""
-url = ""
-image = ""
-date = ""
-category = ""
-outlet = ""
+title = "Photojournalism"
+description = "UC Berkeley Journalism photo assignment."
+date = "September 2026"
+category = "Photojournalism"
+photos = [
+  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/photo-assignment/perspective.jpg | Perspective",
+  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
+  "media/photo-assignment/symmetry.jpg | Symmetry",
+  "media/photo-assignment/foreground-background.jpg | Foreground-background",
+  "media/photo-assignment/portrait.jpg | Portrait",
+  "media/photo-assignment/moment.jpg | Moment",
+]
 
 [[work]]
 title = ""
