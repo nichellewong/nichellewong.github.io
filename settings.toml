@@ -56,6 +56,7 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 socials = [
   "",
   "https://www.linkedin.com/in/nichellewong",
+  "https://nichellewrites.substack.com",
   "",
 ]
 
@@ -101,20 +102,40 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "Photojournalism"
-description = "UC Berkeley Journalism photo assignment."
-date = "September 2026"
-category = "Photojournalism"
-photos = [
-  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
-  "media/photo-assignment/perspective.jpg | Perspective",
-  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
-  "media/photo-assignment/symmetry.jpg | Symmetry",
-  "media/photo-assignment/foreground-background.jpg | Foreground-background",
-  "media/photo-assignment/portrait.jpg | Portrait",
-  "media/photo-assignment/framing.jpg | Framing",
-  "media/photo-assignment/moment.jpg | Moment",
-]
+title = "‘Stereo Dynamic’ exhibit at Creative Growth celebrates the art of music"
+description = ""
+url = "https://oaklandnorth.net/2026/10/02/stereo-dynamic-exhibit-at-creative-growth-celebrates-the-art-of-music/"
+image = "media/J200 Article Photo Uploads/stereo-dynamic.jpg"
+date = "October 2, 2026"
+category = ""
+outlet = "Oakland North"
+
+[[work]]
+title = "Oakland Style Week to host its first film festival this weekend, featuring local talent and stories"
+description = ""
+url = "https://oaklandnorth.net/2026/10/08/oakland-style-week-to-host-its-first-film-festival-this-weekend-featuring-local-talent-and-stories/"
+image = "media/J200 Article Photo Uploads/oakland-made.jpg"
+date = "October 8, 2026"
+category = ""
+outlet = "Oakland North"
+
+[[work]]
+title = "3 natural hidden gems embedded in Berkeley history"
+description = ""
+url = "https://www.dailycal.org/3-natural-hidden-gems-embedded-in-berkeley-history/article_29d2c87b-3d86-4e38-9ad4-770af56202af.html"
+image = "media/J200 Article Photo Uploads/environmental-issue-dc.jpg"
+date = "March 5, 2026"
+category = ""
+outlet = "The Daily Californian"
+
+[[work]]
+title = "Retracing my final undergrad footprints"
+description = ""
+url = "https://www.dailycal.org/retracing-my-final-undergrad-footprints/article_16615b03-927a-43f9-9ddf-635399b6cf0a.html"
+image = "media/J200 Article Photo Uploads/environmental-issue-dc.jpg"
+date = "May 14, 2026"
+category = ""
+outlet = "The Daily Californian"
 
 [[work]]
 title = ""
@@ -138,6 +159,22 @@ outlet = ""
 #
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
+
+[[work]]
+title = "Photojournalism"
+description = "UC Berkeley Journalism photo assignment."
+date = "September 2026"
+category = "Photojournalism"
+photos = [
+  "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/photo-assignment/perspective.jpg | Perspective",
+  "media/photo-assignment/rule-of-thirds.jpg | Rule of Thirds",
+  "media/photo-assignment/symmetry.jpg | Symmetry",
+  "media/photo-assignment/foreground-background.jpg | Foreground-background",
+  "media/photo-assignment/portrait.jpg | Portrait",
+  "media/photo-assignment/framing.jpg | Framing",
+  "media/photo-assignment/moment.jpg | Moment",
+]
 
 [[work]]
 title = ""
