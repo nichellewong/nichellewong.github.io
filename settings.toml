@@ -75,8 +75,9 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a UC Berkeley Multimedia Journalism student. I love works that combine media 
-elements to craft an engaging narrative. In my free time, I blog and write short stories.
+I'm a UC Berkeley Multimedia Journalism student reporting for Oakland North. 
+I love pieces that craft engaging narratives using different media elements. 
+In my free time, I blog and write stories.
 
 """
 
@@ -132,7 +133,7 @@ outlet = "The Daily Californian"
 title = "Retracing my final undergrad footprints"
 description = ""
 url = "https://www.dailycal.org/retracing-my-final-undergrad-footprints/article_16615b03-927a-43f9-9ddf-635399b6cf0a.html"
-image = "media/J200 Article Photo Uploads/environmental-issue-dc.jpg"
+image = "media/J200 Article Photo Uploads/nichelle-wong-grad.jpg"
 date = "May 14, 2026"
 category = ""
 outlet = "The Daily Californian"
